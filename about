@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<!-- prototype about page -->
+
+<html>
+<head>
+	<!-- The title of the page and a link to the style sheet -->
+	<title>About Page</title>
+	<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+	<!-- The Header -->
+	<h1>Welcome to the site!<h1>
+
+	
+	<!-- Here is some general information about the site -->
+	<br><br><br>
+	<p>This site is a place where AnyIdea software stores its ideas.</p>
+	
+	<br>
+	<a href="http://www.google.com">Here is a link to Google so you can look it up</a>
+
+ </body>
+
+ </html> 
